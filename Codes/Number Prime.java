@@ -20,6 +20,5 @@ public class numPrime {
         else {
             System.out.println("The number " + num + " is not prime.");
         }
-
     }
 }
