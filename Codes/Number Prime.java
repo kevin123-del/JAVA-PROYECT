@@ -14,6 +14,7 @@ public class numPrime {
                 counter++;
             }
         }
+        
         if (counter <= 2 ) {
             System.out.println("The number " + num + " is prime.");
         }
