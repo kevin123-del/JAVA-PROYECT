@@ -1,5 +1,5 @@
 /* Make a java code that can read a number by keyboard less than or equal to 500, the program must tell if the number entered is prime or not prime by displaying the number.
-program should tell if the number entered is prime or not prime by displaying the number captured by the captured by the keyboard*/
+ program should tell if the number entered is prime or not prime by displaying the number captured by the captured by the keyboard*/
 import java.util.Scanner;
 public class numPrime {
     public static void main(String[] args) {
